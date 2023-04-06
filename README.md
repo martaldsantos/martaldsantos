@@ -10,6 +10,8 @@
 - [Email](mailto:martasantos@microsoft.com)
 - [LinkedIn](https://www.linkedin.com/in/marta-asantos/)
 
+Thanks for stopping by!
+
 
 <!--
 - 🔭 I’m currently working on ... 
