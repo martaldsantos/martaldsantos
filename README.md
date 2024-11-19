@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning about the exciting fields of AI, I am continuously fascinated by the incredible potential of artificial intelligence and machine learning to transform the way we work and live
+🌱 I’m currently exploring the exciting fields of AI, I am continuously fascinated by the incredible potential of artificial intelligence and machine learning to transform the way we work and live
 <!--
 🔭 I’m currently working on creating a baseline curriculum on Azure Databricks and Azure Machine Learning, with a focus on data ingestion, processing, exploration, and machine learning deployment.
 -->
